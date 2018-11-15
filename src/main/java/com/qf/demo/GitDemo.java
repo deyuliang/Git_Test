@@ -8,5 +8,6 @@ package com.qf.demo;
 public class GitDemo {
     public static void main(String[] args) {
         System.out.println("djfeijdgkrkgajdgk");
+        System.out.println("添加了一句话");
     }
 }
